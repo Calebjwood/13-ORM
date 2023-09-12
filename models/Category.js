@@ -6,6 +6,12 @@ class Category extends Model {}
 
 Category.init(
   {
+    in: {
+
+    },
+    category_name: {
+      
+    }
     // define columns
   },
   {
